@@ -29,3 +29,26 @@ nav a:hover {
     font-weight: 500;
     color: #7E459B;
 }
+
+.icones i {
+    font-size: 1.8rem;
+}
+
+.tamanho-card {
+    width: 18rem;
+}
+
+.imagem-cards {
+    object-fit: cover;
+    object-position: top;
+    height: 40vh;
+}
+
+.modal-body img {
+    width: 100%;
+}
+
+footer a {
+    color: #bd87d8;
+    text-decoration: none;
+}
